@@ -19,3 +19,5 @@ sed 's|@nmcli@|nmcli|' network-tui.py > /tmp/network-tui && python3 /tmp/network
 
 Consumed by [install-script](https://github.com/zoraster-org/install-script)
 as the `network-tui-src` flake input.
+
+Licence: GPL-3.0 (see `LICENSE`), like the other zoraster-org tools.
